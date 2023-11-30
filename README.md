@@ -12,13 +12,13 @@
 ### 1. カレンダーのLINE連携
 * googleカレンダーとLINEを連携し、googleカレンダーに登録されている予定を通知するbot。  
 GASでデプロイしてトリガー設定をすることで、毎日当日の予定と向こう一週間の予定をLINEで自動通知してくれる。  
-<br /><br />
+<br />
 <img src="カレンダーのLINE連携/img/line_sample_1.PNG" width="30%">
 
 <br />
 
-* LINEで直接予定を追加したり、任意のタイミングで予定を取得することもできる。
-<br /><br />
+* LINEで直接予定を追加したり、任意のタイミングで予定を取得することもできる。  
+<br />
 <img src="カレンダーのLINE連携/img/line_sample_2.PNG" width="30%">
 <br />
 
