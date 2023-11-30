@@ -2,7 +2,7 @@
 ## 概要
 各アプリの概要を以下に記載する。
 
-1. [カレンダーのLINE連携](https://github.com/katayama-pol/tools/tree/develop#1-カレンダーのLINE連携)
+1. [カレンダーのLINE連携](https://github.com/katayama-pol/apps/tree/develop#1-カレンダーのLINE連携)
 
 
 
